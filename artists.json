@@ -1,0 +1,15 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "bennu",
+            "count": 1,
+            "date": "28/02/2024, 12:24:53",
+            "tags": [
+                "bad",
+                "cool",
+                "rap"
+            ]
+        }
+    ]
+}
