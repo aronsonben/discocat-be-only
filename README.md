@@ -1,5 +1,7 @@
 # ANRdiscocatPOC
 
+**BACKEND ONLY IMPLEMENTATION FROM MARCH 2024... NEW REPO UP**
+
 The ever-elusive AnR Discocat idea that I've never quite implemented. Somehow able to do more than I ever have in a single day. I guess because I usually get too caught up in CSS lol. 
 
 ## Development
